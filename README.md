@@ -11,3 +11,6 @@ Labor and Technology of July 27, 2021 on the register of land and buildings
 (https://isap.sejm.gov.pl/ isap.nsf/DocDetails.xsp?id=WDU20210001390).
 
 Objects and their appearance are stored in SHP/DBF and QML formats.
+
+For objects that cannot be represented by standard QGIS symbols, SVG symbols are developed, 
+according to the above Decree.
